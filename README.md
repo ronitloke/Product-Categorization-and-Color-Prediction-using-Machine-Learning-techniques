@@ -67,7 +67,7 @@ pip install pandas scikit-learn tensorflow matplotlib seaborn
 ```
 **3️⃣ Run the Jupyter Notebook**
 ```bash
-jupyter notebook notebooks/ML_Etsy_Assignment.ipynb
+jupyter notebook notebooks/ML_Etsy_code.ipynb
 ```
 **4️⃣ View Predictions**
 ```bash
